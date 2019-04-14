@@ -1,2 +1,0 @@
-# dentfront
-Created with CodeSandbox
